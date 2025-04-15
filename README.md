@@ -1,8 +1,9 @@
-## Hello World!
-- 🌎 I'm a Brazilian Front-End Developer
-- 💻 I have 8+ years of experience in web development, working mainly with HTML, CSS, and JavaScript
+## Hello World! 
+- 💻 I'm a Front-end developer 
 - ✈️ I love to travel
 - 🌊 I live in a beach town and love being near the ocean
+
+🔗 Portfolio: [andressabertolini.com](https://andressabertolini.com)
 
 ## Stack
 ![HTML](https://img.shields.io/badge/-HTML-E54C21?logo=html5&logoColor=white&style=flat)
@@ -13,4 +14,13 @@
 ![Next](https://img.shields.io/badge/-Next-232323?logo=next.js&logoColor=white&style=flat)
 
 ## Tools & Technologies
-![Tailwind](https://img.shields.io/badge/-Tailwind-E54C21?logo=tailwind&logoColor=white&style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-4a4848?logo=react&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-7952bf?logo=redux&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-Tailwind-49acb4?logo=tailwindcss&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-cd6699?logo=sass&logoColor=white&style=flat)
+![Material UI](https://img.shields.io/badge/-MaterialUI-006bd6?logo=mui&logoColor=white&style=flat)
+![JQuery](https://img.shields.io/badge/-JQuery-0769ad?logo=jquery&logoColor=white&style=flat)
+
+## CMS
+![Shopify](https://img.shields.io/badge/-Shopify-5e8d3e?logo=shopify&logoColor=white&style=flat)
+![Wordpress](https://img.shields.io/badge/-Wordpress-075b7f?logo=wordpress&logoColor=white&style=flat)
