@@ -1,7 +1,12 @@
-## Hello World! 
-- 💻 I'm a Front-end developer 
+## Hello World!
+
+I'm Andressa, front-end developer 💻
+
 - ✈️ I love to travel
-- 🌊 I live in a beach town and love being near the ocean
+- 🌊 I live on the coast and love being near the ocean
+- I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹
+- My hobbies are swimming 🏊🏻‍♀️, belly dance 💃🏻 and roller skating 🛼
+- I really love Disneyland 🏰 - My goal is to visit all the parks around the world!
 
 🔗 Portfolio: [andressabertolini.com](https://andressabertolini.com)
 
