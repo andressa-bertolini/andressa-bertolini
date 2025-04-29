@@ -1,6 +1,6 @@
 ## Hello World!
 
-I'm Andressa, front-end developer 💻
+#### I'm Andressa, a front-end developer 💻
 
 - ✈️ I love to travel
 - 🌊 I live on the coast and love being near the ocean
