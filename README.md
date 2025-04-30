@@ -6,7 +6,7 @@
 - 🌊 I live on the coast and love being near the ocean
 - 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹
 - ✨ My hobbies are swimming 🏊🏻‍♀️, belly dance 💃🏻 and roller skating 🛼
-- 🏰 I really love Disneyland - My goal is to visit all the parks around the world! 3/6
+- 🏰 I really love Disney parks - My goal is to visit all the parks around the world! 3/6
 
 🔗 Portfolio: [andressabertolini.com](https://andressabertolini.com)
 
