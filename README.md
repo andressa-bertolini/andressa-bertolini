@@ -1,4 +1,4 @@
-## Hello World! I'm Andressa, a front-end developer 💻
+## Hello World! I'm Andressa, front-end developer 💻
 
 🔗 Portfolio: [andressabertolini.com](https://andressabertolini.com)<br />
 🔗 LinkedIn: [https://www.linkedin.com/in/andressa-bertolini/](https://www.linkedin.com/in/andressa-bertolini/)
