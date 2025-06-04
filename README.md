@@ -16,8 +16,6 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-49acb4?logo=tailwindcss&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-cd6699?logo=sass&logoColor=white&style=flat)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-006bd6?logo=mui&logoColor=white&style=flat)
-![JQuery](https://img.shields.io/badge/-JQuery-0769ad?logo=jquery&logoColor=white&style=flat)
-<br />
 ![Shopify](https://img.shields.io/badge/-Shopify-5e8d3e?logo=shopify&logoColor=white&style=flat)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-075b7f?logo=wordpress&logoColor=white&style=flat)
 
