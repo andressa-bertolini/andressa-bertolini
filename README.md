@@ -23,6 +23,6 @@
 ## About Me
 - ✈️ I love to travel
 - 🌊 I live on the coast and love being near the ocean
-- 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹
+- 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹 (And Portuguese as my native language of course 🇧🇷)
 - ✨ My hobbies are swimming 🏊🏻‍♀️, belly dance 💃🏻 and roller skating 🛼
 - 🏰 I really love Disney parks - My goal is to visit all the parks around the world! 3/6
