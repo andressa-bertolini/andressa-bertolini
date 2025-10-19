@@ -21,6 +21,7 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-075b7f?logo=wordpress&logoColor=white&style=flat)
 
 ## About Me
+- 👩🏻‍💻 Front-end developer who wants to keep growing as a React developer
 - ✈️ I love to travel
 - 🌊 I live on the coast and love being near the ocean
 - 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹 (And Portuguese as my native language of course 🇧🇷)
