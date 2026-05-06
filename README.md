@@ -24,9 +24,9 @@ Currently focused on modern front-end architecture, state management, and scalab
 ![Sass](https://img.shields.io/badge/-Sass-cd6699?logo=sass&logoColor=white&style=flat)
 
 
-## A little more about me
+<!-- ## A little more about me
 - ✈️ I love to travel
 - 🌊 I live on the coast and love being close to the ocean
 - 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹 (And Portuguese as my native language of course 🇧🇷)
 - ✨ My hobbies are swimming 🏊🏻‍♀️, belly dance 💃🏻 and roller skating 🛼
-- 🏰 I really love Disney parks - My goal is to visit all the parks around the world! 3/6
+- 🏰 I really love Disney parks - My goal is to visit all the parks around the world! 3/6 -->
