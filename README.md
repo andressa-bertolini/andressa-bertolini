@@ -1,13 +1,13 @@
-## Hello World! I'm Andressa, front-end developer 💻
+## Hello World, I'm Andressa! 
+
+💻 Software Engineer focused in Front-end development<br />
+🎓 I graduated in Systems Analysis and Development<br />
+
+
+
 
 🔗 Portfolio: [andressabertolini.com](https://andressabertolini.com)<br />
 🔗 LinkedIn: [https://www.linkedin.com/in/andressa-bertolini/](https://www.linkedin.com/in/andressa-bertolini/)
-
-## About Me
-Front-end developer focused on building web applications and interfaces with React and TypeScript.
-Experience working in remote teams and contributing to production-level projects.
-
-Currently focused on modern front-end architecture, state management, and scalable UI development.
 
 ## Stack
 ![HTML](https://img.shields.io/badge/-HTML-E54C21?logo=html5&logoColor=white&style=flat)
