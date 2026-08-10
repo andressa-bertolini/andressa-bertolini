@@ -33,13 +33,17 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-49acb4?logo=tailwindcss&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-cd6699?logo=sass&logoColor=white&style=flat)
 <br />
-**Backend(Currently learning):**
+**Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 <br />
 **Tools:** 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
+<br />
+**Testing:** 
+![RTL](https://img.shields.io/badge/-RTL-E33332?logo=testing-library&logoColor=white&style=flat)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 <br />
 **Platforms:** 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759b?logo=wordpress&logoColor=white&style=flat)
