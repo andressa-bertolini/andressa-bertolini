@@ -1,11 +1,11 @@
 ## Hello World, I'm Andressa! 
 
 💻 Software Engineer focused on Frontend development<br />
-🎓 Graduated in Systems Analysis and Development<br />
-💼 Worked with multiple agencies on projects ranging from websites to e-commerce platforms<br />
+🎓 Degree in Systems Analysis and Development<br />
+💼 Worked with multiple agencies on projects from websites to e-commerce platforms<br />
 🚀 Currently working at a product company, developing a SaaS platform for restaurant management<br />
 ✈️ I love traveling<br />
-🌊 I live on the coast and love being close to the ocean<br />
+🌊 Coastal living, always close to the ocean<br />
 <!-- 
 ## A little more about me
 - 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹 (And Portuguese as my native language of course 🇧🇷)
