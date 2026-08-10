@@ -1,10 +1,17 @@
 ## Hello World, I'm Andressa! 
 
-💻 Software Engineer focused in Front-end development<br />
-🎓 I graduated in Systems Analysis and Development<br />
-
-
-
+💻 Software Engineer focused on Frontend development<br />
+🎓 Graduated in Systems Analysis and Development<br />
+💼 Worked with multiple agencies on projects ranging from websites to e-commerce platforms<br />
+🚀 Currently working at a product company, developing a SaaS platform for restaurant management<br />
+✈️ I love traveling<br />
+🌊 I live on the coast and love being close to the ocean<br />
+<!-- 
+## A little more about me
+- 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹 (And Portuguese as my native language of course 🇧🇷)
+- ✨ My hobbies are swimming 🏊🏻‍♀️, belly dance 💃🏻 and roller skating 🛼
+- 🏰 I really love Disney parks - My goal is to visit all the parks around the world! 3/6 
+-->
 
 🔗 Portfolio: [andressabertolini.com](https://andressabertolini.com)<br />
 🔗 LinkedIn: [https://www.linkedin.com/in/andressa-bertolini/](https://www.linkedin.com/in/andressa-bertolini/)
@@ -24,9 +31,4 @@
 ![Sass](https://img.shields.io/badge/-Sass-cd6699?logo=sass&logoColor=white&style=flat)
 
 
-<!-- ## A little more about me
-- ✈️ I love to travel
-- 🌊 I live on the coast and love being close to the ocean
-- 💬 I've always loved learning languages — I speak English 🇺🇸 and Italian 🇮🇹 (And Portuguese as my native language of course 🇧🇷)
-- ✨ My hobbies are swimming 🏊🏻‍♀️, belly dance 💃🏻 and roller skating 🛼
-- 🏰 I really love Disney parks - My goal is to visit all the parks around the world! 3/6 -->
+
