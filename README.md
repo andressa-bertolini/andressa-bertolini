@@ -2,8 +2,8 @@
 
 💻 Software Engineer focused on Frontend development<br />
 🎓 Degree in Systems Analysis and Development<br />
-💼 Worked with multiple agencies on projects from websites to e-commerce platforms<br />
 🚀 Currently working at a product company, developing a SaaS platform for restaurant management<br />
+💼 Experience working with agencies on projects from websites to e-commerce platforms<br />
 ✈️ I love traveling<br />
 🌊 Coastal living, always close to the ocean<br />
 <!-- 
