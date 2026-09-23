@@ -45,7 +45,7 @@
 ![RTL](https://img.shields.io/badge/-RTL-E33332?logo=testing-library&logoColor=white&style=flat)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 <br />
-**Platforms:** 
+**CMS:** 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759b?logo=wordpress&logoColor=white&style=flat)
 ![Shopify](https://img.shields.io/badge/-Shopify-7ab55c?logo=shopify&logoColor=white&style=flat)
 
