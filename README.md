@@ -29,7 +29,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-20232a?logo=react&logoColor=61DAFB&style=flat)
 <br />
 **UI:** 
-![Material UI](https://img.shields.io/badge/-MaterialUI-006bd6?logo=mui&logoColor=white&style=flat) 
+![Design Systems](https://img.shields.io/badge/-Design%20Systems-6E56CF?style=flat)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-49acb4?logo=tailwindcss&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-cd6699?logo=sass&logoColor=white&style=flat)
 <br />
